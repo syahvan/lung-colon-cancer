@@ -1,1 +1,1 @@
-# lung-colon-cancer
+# Lung and Colon Cancer Classification
